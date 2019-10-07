@@ -1,7 +1,7 @@
 package com.app.model;
 
 public class DisplayNames {
-
+String str="ABC";
 	public static void main(String[] args) {
        //adding Array to display names
 		String [] names= {"Ramesh","Rajesh","Ashok","Kumar","Pravin","Mahesh","Harikrishna"};
