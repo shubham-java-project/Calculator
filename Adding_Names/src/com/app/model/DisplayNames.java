@@ -4,12 +4,12 @@ public class DisplayNames {
 
 	public static void main(String[] args) {
 
-		String [] names= {"Ramesh","Rajesh","Ashok","Kumar"};
+		String [] names= {"Ramesh","Rajesh","Ashok","Kumar","Pravin","Mahesh"};
 		/**
-		 * printing names
+		 * printing names of the person
 		 */
-		for(int i=0;i<=names.length-1;i++) {
-			System.out.println(names[i]);
+		for(String name:names) {
+			System.out.println(name);
 		}
 	}
 
