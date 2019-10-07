@@ -3,8 +3,8 @@ package com.app.model;
 public class DisplayNames {
 
 	public static void main(String[] args) {
-
-		String [] names= {"Ramesh","Rajesh","Ashok","Kumar","Pravin","Mahesh"};
+       //adding Array to display names
+		String [] names= {"Ramesh","Rajesh","Ashok","Kumar","Pravin","Mahesh","Harikrishna"};
 		/**
 		 * printing names of the person
 		 */
